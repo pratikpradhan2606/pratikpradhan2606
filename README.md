@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pratikpradhan2606
+- 👀 I’m interested in AI, ML
+- 🌱 I’m currently learning Data Structures and Algorithm using C++
+- 📫 How to reach me ...
